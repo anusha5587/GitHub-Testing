@@ -3,3 +3,19 @@ h1 {
   text-decoration: underline;
   color: rgb(158, 42, 123);
 }
+p {
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+}
+button {
+  background-color: brown;
+  color: white;
+  font-style: bold;
+  font-size: 15px;
+  font: center;
+  padding: 20px 20px 20px 20px;
+  margin: auto;
+  text-align: center;
+  display: block;
+}
